@@ -27,5 +27,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/malgorzata-szopa/
-
+[1]: https://www.linkedin.com/in/malgorzata-szopa/
 
