@@ -1,5 +1,5 @@
 # Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Some call me "Szopen" but most know me as a "Lost Soul" <img src="https://lh3.googleusercontent.com/proxy/FbgH2Vdn3eAIp4LkWjLrobyas02BpsLSSn8L3kkWmSRFVBv7MJGUVLGg-V4losCfsTa4WWPr-qM" width="160px">
+## Some call me "Szopen" but most know me as a "Lost Soul" <img src="https://lh3.googleusercontent.com/proxy/FbgH2Vdn3eAIp4LkWjLrobyas02BpsLSSn8L3kkWmSRFVBv7MJGUVLGg-V4losCfsTa4WWPr-qM" width="100px">
 
 ## I'm a Student and an aspiring Developer!
 
