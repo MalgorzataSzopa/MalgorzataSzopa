@@ -30,6 +30,12 @@
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" />][1]
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][1]
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalgorzataSzopa,css&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [linkedin]: https://www.linkedin.com/in/malgorzata-szopa/
 [1]: https://github.com/MalgorzataSzopa?tab=repositories
