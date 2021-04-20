@@ -8,16 +8,15 @@
 - 🥅 2021 Goals: Find a job :briefcase:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
-<br />
-<br />
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
-<br />
 
 ### Languages and Tools:
+
+<br />
 
 [<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][1]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
