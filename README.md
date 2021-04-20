@@ -1,5 +1,5 @@
-# Hi there, I'm Gosia! 👋
-## Some call me "Szopen" but most know me as a "Lost Soul" :smiling_imp:
+# Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Some call me "Szopen" but most know me as a "Lost Soul" <img src="https://static.wikia.nocookie.net/villains/images/b/b7/Lost_Soul_exp.gif/revision/latest/scale-to-width-down/250?cb=20171029163627" width="30px">
 
 ## I'm a Student and an aspiring Developer!
 
@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][1]
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][1]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][1]
