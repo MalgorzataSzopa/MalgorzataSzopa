@@ -3,9 +3,10 @@
 
 ## I'm a Student and an aspiring Developer!
 
-- 🌱 I’m currently learning Java.
-- 🥅 2021 Goals: Find a job :briefcase:
-- :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
+:small_blue_diamond: 🌱 I’m currently learning Java.
+:small_blue_diamond: :calendar: April Goals: Workout more. :muscle:
+:small_blue_diamond: 🥅 2021 Goals: Find a job :briefcase:
+:small_blue_diamond: :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
