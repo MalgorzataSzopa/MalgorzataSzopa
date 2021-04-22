@@ -7,8 +7,7 @@
 ## I'm a Student and an aspiring Developer!
 
 - 🌱 I’m currently learning Java.
-- :woman_technologist: Proud member of:  
-[<img alt="HS3" width="35px" src="https://d3npyywa6qnolf.cloudfront.net/prod/user/38682/eyJ1cmwiOiJodHRwczpcL1wvcGF0cm9uaXRlLnBsXC91cGxvYWRcL3VzZXJcLzM4NjgyXC9hdmF0YXJfb3JpZy5qcGc%2FMTQ4OTQ5MDE0NSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjkwLCJvcHRpb25zIjp7InF1YWxpdHkiOjk1fX0sInRvRm9ybWF0IjoianBlZyJ9fQ%3D%3D/7TyKqlLK1RD2RuSk0K%2FFsWFxPf%2BAemYKYCNKLDQaNqo%3D" />][2]
+- :woman_technologist: Proud member of Hackerspace Trójmiasto. [<img alt="HS3" width="20px" src="https://d3npyywa6qnolf.cloudfront.net/prod/user/38682/eyJ1cmwiOiJodHRwczpcL1wvcGF0cm9uaXRlLnBsXC91cGxvYWRcL3VzZXJcLzM4NjgyXC9hdmF0YXJfb3JpZy5qcGc%2FMTQ4OTQ5MDE0NSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjkwLCJvcHRpb25zIjp7InF1YWxpdHkiOjk1fX0sInRvRm9ybWF0IjoianBlZyJ9fQ%3D%3D/7TyKqlLK1RD2RuSk0K%2FFsWFxPf%2BAemYKYCNKLDQaNqo%3D" />][2]
 - :calendar: April Goals: Workout more. :muscle:
 - 🥅 2021 Goals: Find a job :briefcase:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
