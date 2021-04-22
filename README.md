@@ -7,6 +7,7 @@
 ## I'm a Student and an aspiring Developer!
 
 - 🌱 I’m currently learning Java.
+- :woman_technologist: Proud member of [<img align="left" alt="Java" width="10px" src="https://d3npyywa6qnolf.cloudfront.net/prod/user/38682/eyJ1cmwiOiJodHRwczpcL1wvcGF0cm9uaXRlLnBsXC91cGxvYWRcL3VzZXJcLzM4NjgyXC9hdmF0YXJfb3JpZy5qcGc%2FMTQ4OTQ5MDE0NSIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjkwLCJvcHRpb25zIjp7InF1YWxpdHkiOjk1fX0sInRvRm9ybWF0IjoianBlZyJ9fQ%3D%3D/7TyKqlLK1RD2RuSk0K%2FFsWFxPf%2BAemYKYCNKLDQaNqo%3D" />][2]
 - :calendar: April Goals: Workout more. :muscle:
 - 🥅 2021 Goals: Find a job :briefcase:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
@@ -22,7 +23,7 @@
 
 <br />
 
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][1]
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][2]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][1]
@@ -42,4 +43,4 @@
 
 [linkedin]: https://www.linkedin.com/in/malgorzata-szopa/
 [1]: https://github.com/MalgorzataSzopa?tab=repositories
-
+[2]: https://github.com/hs3city
