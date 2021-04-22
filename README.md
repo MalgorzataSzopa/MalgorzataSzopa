@@ -1,5 +1,6 @@
 # Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## Some call me "Szopen" but most know me as a "Lost Soul" <img src="https://lh3.googleusercontent.com/proxy/GYvcyctedm4_OCF5DLEEvRjguyNm8QgEqEs9XHxiN07ekeQZtbYUhs1W-O3MqOdB6V7vnpJ8SUE" width="100px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+call+me+"Szopen";but+most+know+me+as+a;"Lost Soul"!)](https://git.io/typing-svg) <img src="https://lh3.googleusercontent.com/proxy/GYvcyctedm4_OCF5DLEEvRjguyNm8QgEqEs9XHxiN07ekeQZtbYUhs1W-O3MqOdB6V7vnpJ8SUE" width="100px">
 
 ## I'm a Student and an aspiring Developer!
 
