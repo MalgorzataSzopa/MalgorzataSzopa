@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+call+me+Szopen;but+most+know+me+as+a;Lost+Soul!)](https://git.io/typing-svg) 
 <br />
-<img src="https://lh3.googleusercontent.com/proxy/GYvcyctedm4_OCF5DLEEvRjguyNm8QgEqEs9XHxiN07ekeQZtbYUhs1W-O3MqOdB6V7vnpJ8SUE" width="100px">
+<img src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/LSgif.gif" width="100px">
 
 ## I'm a Student and an aspiring Developer!
 
