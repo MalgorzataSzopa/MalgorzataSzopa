@@ -20,11 +20,10 @@
 
 ### Check out my Digital garden!:
 
-[<img align="left" alt="Garden" width="35px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/gifgarden.gif" />][3]
+[<img align="left" alt="Garden" width="45px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/gifgarden.gif" />][3] <br>
 
 There you find my notes about learing an all the other stuff! :house_with_garden:
 
-<br />
 <br />
 
 ### Languages and Tools:
