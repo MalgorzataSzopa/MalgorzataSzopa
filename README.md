@@ -24,8 +24,6 @@
 
 There you find my notes about learing an all the other stuff! :house_with_garden:
 
-<br />
-
 ### Languages and Tools:
 
 <br />
