@@ -17,13 +17,21 @@
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
+
+### Check out my Digital garden!:
+
+[<img align="left" alt="Garden" width="35px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/gifgarden.gif" />][3]
+
+There you find my notes about learing an all the other stuff! :house_with_garden:
+
+<br />
 <br />
 
 ### Languages and Tools:
 
 <br />
 
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][2]
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/java/java-original-wordmark.svg" />][1]
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][1]
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][1]
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][1]
@@ -44,3 +52,4 @@
 [linkedin]: https://www.linkedin.com/in/malgorzata-szopa/
 [1]: https://github.com/MalgorzataSzopa?tab=repositories
 [2]: https://github.com/hs3city
+[3]: https://lostsouldigitalgarden.gatsbyjs.io/
