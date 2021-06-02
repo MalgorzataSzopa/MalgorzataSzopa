@@ -41,7 +41,7 @@ There you find my notes about learing an all the other stuff! :house_with_garden
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalgorzataSzopa&exclude_repo=DigitalGarden&theme=jolly&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalgorzataSzopa&exclude_repo=DigitalGarden&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
