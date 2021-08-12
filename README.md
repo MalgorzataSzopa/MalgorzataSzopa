@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Java.
 - :woman_technologist: Proud member of Hackerspace Trójmiasto. [<img alt="HS3" width="25px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/hs_trojmiasto.png" />][2]
-- :calendar: June Goals: Learn a lot! Also do Blender assigment :books:
+- :calendar: August Goals: Learn && prepare for nex semester! :books:
 - 🥅 2021 Goals: Find a job :briefcase:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
