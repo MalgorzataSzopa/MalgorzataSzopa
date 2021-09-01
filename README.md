@@ -6,9 +6,9 @@
 
 ## I'm a Student and an aspiring Developer!
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java && JavaScript.
 - :woman_technologist: Proud member of Hackerspace Trójmiasto. [<img alt="HS3" width="25px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/hs_trojmiasto.png" />][2]
-- :calendar: August Goals: Learn && prepare for next semester! :books:
+- :calendar: September Goals: Continue learning JS! :books:
 - 🥅 2021 Goals: Find a job :briefcase:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
