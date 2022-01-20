@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning Java && Python :snake:. Some JS too!
 - :woman_technologist: Proud member of Hackerspace Trójmiasto. [<img alt="HS3" width="25px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/hs_trojmiasto.png" />][2]
-- :calendar: November Goals: Be onboard in work && learn! :books:
-- 🥅 2021 Goals: :heavy_check_mark: Find a job :briefcase: :heavy_check_mark: Found! :blush: :heavy_check_mark: 
+- :calendar: January Goals: Participate in Game Jam!! :alien:
+- 🥅 2022 Goals: Keep up the motivation!  :dancer: :dancer: :dancer:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
 
