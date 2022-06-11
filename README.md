@@ -1,4 +1,4 @@
-# Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+call+me+Szopen;but+most+know+me+as+a;Lost+Soul!)](https://git.io/typing-svg) 
 <br />
