@@ -1,4 +1,4 @@
-# Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Gosia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Some+call+me+Szopen;but+most+know+me+as+a;Lost+Soul!)](https://git.io/typing-svg) 
 <br />
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Java && Python :snake:. Some JS too!
 - :woman_technologist: Proud member of Hackerspace Trójmiasto. [<img alt="HS3" width="25px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/hs_trojmiasto.png" />][2]
-- :calendar: January Goals: Participate in Game Jam!! :alien:
+- :calendar: Priority Goals: Finish fullstack web-app project! :alien:
 - 🥅 2022 Goals: Keep up the motivation!  :dancer: :dancer: :dancer:
 - :question: Fun fact: I'm a huge fan of the DOOM series! :feelsgood:
 
@@ -21,7 +21,7 @@
 ### Check out my Digital garden!:
 There you find my notes about learing and all the other stuff! :house_with_garden:
 
-[<img align="left" alt="Garden" width="45px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/gifgarden.gif" />][3] <br>
+[<img align="left" alt="Garden" width="40px" src="https://raw.githubusercontent.com/MalgorzataSzopa/MalgorzataSzopa/master/gifgarden.gif" />][3] <br />
 
 ### Languages and Tools:
 
